@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RGB Viewer</string>
+    <string name="RGB_title">חלוקה לצבעים</string>
+    <string name="R">R:</string>
+    <string name="G">G:</string>
+    <string name="B">B:</string>
+    <string name="permission_not_granted">"לא ניתן לפתוח את האפליקציה ללא אישורך"</string>
+</resources>
